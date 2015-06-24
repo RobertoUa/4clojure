@@ -1,5 +1,7 @@
 # 4Clojure
 
+[![Join the chat at https://gitter.im/RobertoUa/4clojure](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/RobertoUa/4clojure?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 An interactive problem website for learning Clojure:
 [https://www.4clojure.com](https://www.4clojure.com).
 
